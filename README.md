@@ -5,3 +5,6 @@
 
 ## Технологии
 Технологии используюемые в работе: html, css.
+
+## Ссылка на сайт
+https://s-bezrukov.github.io/how-to-learn /
